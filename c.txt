@@ -1,0 +1,1 @@
+Time can't be created or destroyed, only allocated.
